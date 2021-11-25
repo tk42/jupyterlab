@@ -1,3 +1,5 @@
+fdasrsf==2.3.3
+git+git://github.com/GAA-UAM/scikit-fda.git@master
 sktime
 stumpy
 tslearn

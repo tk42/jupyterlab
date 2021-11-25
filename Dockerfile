@@ -4,10 +4,6 @@ ENV JUPYTER_ENABLE_LAB=yes
 
 COPY . .
 
-# To install scikit-fda
-RUN git clone https://github.com/GAA-UAM/scikit-fda && \
-    pip install ./scikit-fda
-
 # To install other packages
 RUN pip install -r requirements.txt
 

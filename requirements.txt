@@ -1,0 +1,3 @@
+git+git://github.com/GAA-UAM/scikit-fda
+sktime
+stumpy
